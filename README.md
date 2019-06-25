@@ -28,3 +28,7 @@ iOS：
    
    3.以上就制作好了iOS的zyBaiduFace授权模块包。
    
+   
+   
+   上传自定义模块 请查看 截图文档  https://docs.qq.com/doc/DTlNxTGZidnNoaGVk
+   
